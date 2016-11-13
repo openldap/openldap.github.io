@@ -1,8 +1,6 @@
-.logo{
-		min-width:10px;
-		min-height:10px;
-		background-color:#000;
-		background-image:url(img/openldap.png);
-		background-position:center;
-		background-repeat:no-repeat;
-    }
+body {
+	background-image: url(openldap.png);
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
